@@ -1,3 +1,0 @@
-First line + 1
-2nd line
-Line three
