@@ -12,5 +12,3 @@ with open("results.txt", "w") as f:
     f.writelines(results)
 
 print("Results saved to results.txt")
-
-#great!!
